@@ -3,7 +3,7 @@
 Here we have video that demonstrate working.
 [Video](https://www.youtube.com/watch?v=cjD9HUzA0DI)
 
-## Presentation
+## Presentation (RU)
 ![](https://sun9-14.userapi.com/c1PR37OXERD_P9RQA3FRj8U82dtV6-o-VUQRvg/SszPAjMP8r4.jpg)
 ---------------------------------------------------------------------------------------
 ![](https://sun9-16.userapi.com/JHNBETxNJs7A8vnieMji9ktr-FLstnwbz7MljA/DocP9d_fEUs.jpg)
