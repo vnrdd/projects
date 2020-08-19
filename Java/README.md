@@ -1,3 +1,7 @@
+## Parallel Merge Sort
+Multithreaded merge sort.
+
+## Game
 Here we have two game projects: 
 * the first one and main also - PixelGravity (game state).  
 <em>there is "test" folder which contains JUnit testing source code files.</em>
